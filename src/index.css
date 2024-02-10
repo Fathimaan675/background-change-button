@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Solway', serif;
+}
+.button {
+  border-radius:35px ;
+  height: 55px;
+  width: 90px;
+}
